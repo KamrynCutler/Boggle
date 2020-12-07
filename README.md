@@ -1,3 +1,3 @@
 # Boggle
 
-Boggle Game and Solver for Starter Projects
+Boggle Game, Solver, Linting, and Web app for Starter Projects
