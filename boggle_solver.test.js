@@ -1,4 +1,4 @@
-cconst boggle_solver = require('/home/codio/workspace/Boggle_Testing/boggle_solver.js');
+const boggle_solver = require('/home/codio/workspace/Boggle_Testing/boggle_solver.js');
 
 /** Lowercases a string array in-place. (Used for case-insensitive string array
  *  matching).
